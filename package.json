@@ -4,6 +4,9 @@
   "bin": {
     "cdk-workshop": "bin/cdk-workshop.js"
   },
+  "engines": {
+    "node": "14"
+  },
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
